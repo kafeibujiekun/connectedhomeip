@@ -1,9 +1,9 @@
 |                                         |   Pass Rate |
 |:----------------------------------------|------------:|
-| tests                                   |          50 |
-| build-example-ameba                     |         100 |
-| darwin                                  |         100 |
+| darwin                                  |           0 |
+| tests                                   |           0 |
 | build-example-telink                    |         100 |
+| build-example-ameba                     |         100 |
 | build-example-mw320                     |         100 |
 | lint-code-base                          |         100 |
 | delete-old-artifacts                    |         100 |
@@ -13,6 +13,7 @@
 | build-example-ti-cc32xx                 |         100 |
 | process-stale-issues-and-prs            |         100 |
 | build-example-ti-cc13xx-26xx            |         100 |
+| mypy-type-validation                    |         100 |
 | build-example-asr                       |         100 |
 | qemu                                    |         100 |
 | full-builds-android                     |         100 |
